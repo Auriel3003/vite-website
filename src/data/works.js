@@ -1,30 +1,30 @@
 export default [
 	{
-		title: 'TechHub-Blog',
+		title: 'Terminal Portfolio',
 		imgUrl:
-			'https://raw.githubusercontent.com/ShaifArfan/techHub-blog/main/banner.png',
+			'https://raw.githubusercontent.com/Auriel3003/screenshots/main/terminal/Screenshot%20from%202022-10-29%2021-10-01.png',
 		tech: ['React JS', 'Gatsby JS', 'Sanity.io'],
-		workUrl: 'https://github.com/ShaifArfan/techHub-blog',
+		workUrl: 'https://terminal-auriel3003.vercel.app/',
 	},
 	{
-		title: "Shaif'f Cuisine",
+		title: "NEXT.js Blog",
 		imgUrl:
-			'https://raw.githubusercontent.com/ShaifArfan/shaif-s-cuisine/main/readmeImg/banner.png',
+			'https://raw.githubusercontent.com/Auriel3003/screenshots/main/Next.js%20Blogs/Screenshot%20from%202022-10-29%2022-02-27.png',
 		tech: ['HTML', 'CSS', 'Netlify'],
-		workUrl: 'https://github.com/ShaifArfan/shaif-s-cuisine',
+		workUrl: 'http://nextjs-docs-samael3003.vercel.app/',
 	},
 	{
-		title: "Ayan's Portfolio Website",
+		title: "My Portfolio Website",
 		imgUrl:
-			'https://raw.githubusercontent.com/ShaifArfan/AYANs-portfolio/main/ReadMeImages/ReadMeBanner.png',
+			'https://raw.githubusercontent.com/Auriel3003/screenshots/main/portfolio/Screenshot%20from%202022-10-29%2022-05-33.png',
 		tech: ['React JS', 'CSS'],
-		workUrl: 'https://github.com/ShaifArfan/AYANs-portfolio',
+		workUrl: 'https://aaj-mai-uddenga.vercel.app/',
 	},
 	{
-		title: 'Artistic',
+		title: 'Crypto-Analyser App',
 		imgUrl:
-			'https://raw.githubusercontent.com/ShaifArfan/artistic/main/readmeImg/banner.png',
+			'https://raw.githubusercontent.com/Auriel3003/screenshots/main/crypto-bucks/Screenshot%20from%202022-10-29%2021-36-51.png',
 		tech: ['React JS', 'CSS'],
-		workUrl: 'https://github.com/ShaifArfan/artistic',
+		workUrl: 'https://crypto-bucks-auriel3003.vercel.app/',
 	},
 ];

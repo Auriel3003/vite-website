@@ -19,6 +19,12 @@ function About() {
 				>
 					aaj-mai-uddenga
 				</a>
+				<a
+					href="http://peakyprogrammer.me/ek-tha-programmer"
+					className="block mt-3 text-md md:text-lg text-gray-700 dark:text-gray-300 underline decoration-1 hover:text-indigo-500 dark:hover:text-indigo-500"
+				>
+					ek-tha-programmer
+				</a>
 			</div>
 
 			<img
